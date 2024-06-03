@@ -1,0 +1,12 @@
+name: Example-shiny
+title: Example-shiny
+username: adrian-stanciu
+account: adrian-stanciu
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12115929
+bundleId: 8694523
+url: https://adrian-stanciu.shinyapps.io/Example-shiny/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
